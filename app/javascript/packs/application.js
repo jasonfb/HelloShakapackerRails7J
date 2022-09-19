@@ -20,4 +20,4 @@ const imagePath = (name) => images(name, true)
 console.log('Hello World from Webpacker')
 
 
-import HelloWorld from './hello-world-bundle'
+import HelloWorld from './client-app-bundle.js'
